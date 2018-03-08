@@ -57,4 +57,4 @@ p = Person()
 p.work_with_dog(ArmyDog())
 p.work_with_dog(DrugDog())
 
-这样一来，添加一个类就显得很方便了。
+这样一来，添加一个类就显得很方便了。这也就显明了多态的强大
